@@ -15,7 +15,6 @@ body {
   background: url('assets/freedom.jpg') no-repeat center;
   background-size: cover;
   color: #333;
-  margin-bottom: 50px;
 }
 
 .wrapper {
@@ -28,7 +27,7 @@ body {
 .quote {
   font-family: 'Julius Sans One', sans-serif;
   font-size: 2.5rem;
-  margin-bottom: 250px;
+  margin-bottom: 400px;
 }
 
 .author {
